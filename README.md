@@ -22,4 +22,6 @@ The SDI dataset of images can be instead downloaded from [this link](https://str
 
 ## Contact 
 
-aghalamzanesfahani@lincoln.ac.uk
+- aghalamzanesfahani@lincoln.ac.uk
+- alessandra.tafuro@mail.polimi.it
+- debnathb@edgehill.ac.uk
