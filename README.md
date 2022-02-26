@@ -1,4 +1,4 @@
-# Title-of-the-project
+# Strawberry picking point localisation ripeness and weight estimation
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
