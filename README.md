@@ -6,7 +6,7 @@
 * [About the Project](#about-the-project)
 * [Usage](#usage)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+
 
 ## About The Project
 
@@ -22,10 +22,4 @@ The SDI dataset of images can be instead downloaded from [this link](https://str
 
 ## Contact 
 
-Provide a list of developers/maintainers email-ids of the repository so as to help resolve the issues future users may come across.
-
-
-## Acknowledgements
-
-If your work is an extension of an existing repository/research work, the original work can be mentioned here. 
-This template is inspired from a great template made available by @othneildrew at https://github.com/othneildrew/Best-README-Template/blob/master/README.md. 
+aghalamzanesfahani@lincoln.ac.uk
