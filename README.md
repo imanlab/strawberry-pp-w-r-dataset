@@ -15,9 +15,9 @@ In particular it contains the 2 novel datasets presented in the paper.
 
 ## Usage
 
-In the folder '''annotations/''' the annotations for the 2 datasets are present splitted into '''dyson_annotations/''' and '''SDI_annotations/'''. In each json file the bounding box, the keypoints and the category (ripe/unripe) are annotated.
+In the folder ```annotations/``` the annotations for the 2 datasets are present splitted into ```dyson_annotations/``` and ```SDI_annotations/```. In each json file the bounding box, the keypoints and the category (ripe/unripe) are annotated.
 
-In the folder '''dataset/dyson_daatset/''' there are the images belonging to the dyson dataset (depth, RGB).
+In the folder ```dataset/dyson_daatset/``` there are the images belonging to the dyson dataset (depth, RGB).
 The SDI dataset of images can be instead downloaded from [this link](https://strawdi.github.io)
 
 ## Contact 
