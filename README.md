@@ -10,12 +10,15 @@
 
 ## About The Project
 
-The purpose of this repository is to provide an easy and consistent way of documenting the projects at IML. This part of the readme can be used to define the overall problem statement of the research project. Feel free to modify the structure of readme as per the project requirements. 
+This repository is related to the paper "Strawberry picking point localisation ripeness and weight estimation" accepted for ICRA 2022,PA. 
+In particular it contains the 2 novel datasets presented in the paper.
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos would be great! You can also provide links to more resources. 
+In the folder '''annotations/''' the annotations for the 2 datasets are present splitted into '''dyson_annotations/''' and '''SDI_annotations/'''. In each json file the bounding box, the keypoints and the category (ripe/unripe) are annotated.
 
+In the folder '''dataset/dyson_daatset/''' there are the images belonging to the dyson dataset (depth, RGB).
+The SDI dataset of images can be instead downloaded from this link[https://strawdi.github.io].
 
 ## Contact 
 
