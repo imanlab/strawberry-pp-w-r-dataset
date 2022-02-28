@@ -16,6 +16,9 @@
 This repository is related to the paper "Strawberry picking point localisation ripeness and weight estimation" accepted for ICRA 2022, PA. 
 In particular it contains the 2 novel datasets presented in the paper.
 
+![table](img/table.png)
+
+
 ## Usage
 
 ### Annotations
