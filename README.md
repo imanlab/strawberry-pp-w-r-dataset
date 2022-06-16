@@ -36,3 +36,7 @@ In the folder ```annotations/``` the annotations for the 2 datasets are present.
 - aghalamzanesfahani@lincoln.ac.uk
 - alessandra.tafuro@mail.polimi.it
 - debnathb@edgehill.ac.uk
+
+## License
+
+The materials in this repo can be used under CC-BY-NC-SA license. All data, labels, code and models belong to the Intelligent Manipulation Lab and are freely available for free non-commercial use. 
