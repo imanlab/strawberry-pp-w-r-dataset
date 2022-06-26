@@ -27,9 +27,14 @@ In the folder ```annotations/``` the annotations for the 2 datasets are present.
 
 ### Images 
 
-- **1 dataset**:  The Dyson dataset can be downloaded from [this link.](https://drive.google.com/file/d/1XaAbR8ahnRvkDXMSHy7LEzYiuyBum-KE/view?usp=sharing) It is divded into 4 sub-folders. It is composed by raw depth, color depth, RGB and point clouds of strawberries in the farm. Addtionally the are numpy files containing the annotations of the weights of the berries.
+- **Dataset #1**:  The Dyson dataset can be downloaded from [this link.](https://drive.google.com/file/d/1XaAbR8ahnRvkDXMSHy7LEzYiuyBum-KE/view?usp=sharing) It is divded into 4 sub-folders. It is composed of 
+   * raw depth, 
+   * color depth,
+   * RGB and
+   * point clouds of strawberries in the farm.
+   * Addtionally the are numpy files containing the annotations of the **weights of the berries**.
 
-- **2 dataset**: The SDI dataset of images can be instead downloaded from [this link.](https://strawdi.github.io)
+- **Dataset #2**: The SDI dataset of images can be instead downloaded from [this link.](https://strawdi.github.io)
 
 ## Contact 
 
