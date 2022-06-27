@@ -25,7 +25,7 @@ In particular it contains the 2 novel datasets presented in the paper.
 
 In the folder ```annotations/``` the annotations for the 2 datasets are present. They splitted into ```dyson_annotations.zip``` and ```SDI_annotations/```. Every image has its corresponding json file. In each json file the bounding box, the keypoints and the category (ripe/unripe) for each berry present in the image are annotated.
 
-### Images 
+### Images and weights annotations
 
 - **Dataset #1**:  The Dyson dataset can be downloaded from [this link.](https://drive.google.com/file/d/1XaAbR8ahnRvkDXMSHy7LEzYiuyBum-KE/view?usp=sharing) It is divded into 4 sub-folders. It is composed of 
    * raw depth, 
