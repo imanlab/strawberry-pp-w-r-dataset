@@ -7,7 +7,7 @@
 * [About the Project](#about-the-project)
 * [Usage](#usage)
   * [Annotations](#annotations)
-  * [Images](#images-and-weoghts-annotations)
+  * [Images and weights annotations](#images-and-weights-annotations)
 * [Contact](#contact)
 
 
