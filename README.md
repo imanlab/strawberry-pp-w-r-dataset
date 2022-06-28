@@ -27,12 +27,15 @@ In the folder ```annotations/``` the annotations for the 2 datasets are present.
 
 ### Images and weights annotations
 
-- **Dataset #1**:  The Dyson dataset can be downloaded from [this link.](https://drive.google.com/file/d/1MkfR-pDGayt74QSrXR_WV2qNSwiVyUG1/view?usp=sharing) It is divded into 4 sub-folders. It is composed of 
-   * raw depth, 
-   * color depth,
-   * RGB and
-   * point clouds of strawberries in the farm.
-   * Addtionally the are numpy files containing the annotations of the **weights of the berries**.
+- **Dataset #1**:  The Dyson dataset can be downloaded from [this link.](https://drive.google.com/drive/folders/1meEKYLgdQpUgkpeqM6VgzHmJg0gNTCx0?usp=sharing) It is divded into 4 sub-folders, each including a number of data samples. Each data sample is composed of an image witha number of strawberries annotated as follows: 
+    * strawberry_dyson_lincoln_tbd__002_1_pc.ply  <- Point cloud
+    * strawberry_dyson_lincoln_tbd__002_1_label.npy  <- Weight
+    * strawberry_dyson_lincoln_tbd__002_1_rdepth.npy  <- Raw depth image
+    * strawberry_dyson_lincoln_tbd__002_1_bgremoved.png  <- RGB image without background 
+    * strawberry_dyson_lincoln_tbd__002_1_odepth.png  <- Colorized depth image
+    * strawberry_dyson_lincoln_tbd__002_1_pdepth.png  <- Colorized depth image (different colormap)
+    * strawberry_dyson_lincoln_tbd__002_1_rgb.png  <- RGB image
+  
 
 - **Dataset #2**: The SDI dataset of images can be instead downloaded from [this link.](https://strawdi.github.io)
 
