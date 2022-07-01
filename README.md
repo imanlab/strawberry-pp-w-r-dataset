@@ -27,7 +27,8 @@ In the folder ```annotations/``` the annotations for the 2 datasets are present.
 
 ### Images and weights annotations
 
-- **Dataset #1**:  The Dyson dataset can be downloaded from [this link.](https://drive.google.com/drive/folders/1meEKYLgdQpUgkpeqM6VgzHmJg0gNTCx0?usp=sharing) It is divded into 4 sub-folders, each including a number of data samples. Each data sample is composed of an image witha number of strawberries annotated as follows: 
+- **Dataset #1**:  The Dyson dataset can be downloaded from [this link.](https://drive.google.com/drive/folders/1meEKYLgdQpUgkpeqM6VgzHmJg0gNTCx0?usp=sharing). 
+This dataset is divded into 4 sub-folders, each including a number of data samples. Each data sample is composed of an image witha number of strawberries annotated as follows: 
     * strawberry_dyson_lincoln_tbd__002_1_pc.ply  <- **Point cloud**
     * strawberry_dyson_lincoln_tbd__002_1_label.npy  <- **Weight**
     * strawberry_dyson_lincoln_tbd__002_1_rdepth.npy  <- **Raw depth image**
