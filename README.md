@@ -43,9 +43,21 @@ This dataset is divded into 4 sub-folders, each including a number of data sampl
 ## Contact 
 
 - aghalamzanesfahani@lincoln.ac.uk
-- alessandra.tafuro@mail.polimi.it
-- debnathb@edgehill.ac.uk
+
 
 ## License
 
 The materials in this repo can be used under CC-BY-NC-SA license. All data, labels, code and models belong to the Intelligent Manipulation Lab and are freely available for free non-commercial use. 
+
+## For citing this work use this:
+```
+@inproceedings{tafuro2022strawberry,
+  title={Strawberry picking point localization ripeness and weight estimation},
+  author={Tafuro, Alessandra and Adewumi, Adeayo and Parsa, Soran and Amir, Ghalamzan E and Debnath, Bappaditya},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={2295--2302},
+  year={2022},
+  organization={IEEE}
+}
+```
+
